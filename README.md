@@ -6,7 +6,6 @@ It demonstrates core operating system concepts including **process creation**, *
 
 The shell follows a **layered architecture** consisting of a lexer, parser, and executor, similar to real-world shells.
 
----
 
 ## Features
 
@@ -30,8 +29,3 @@ The shell follows a **layered architecture** consisting of a lexer, parser, and 
   - `execvp`
   - `wait`
 - Manual memory management suitable for long-running REPL execution
-
----
-
-## Architecture
-
